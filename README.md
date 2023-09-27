@@ -5,7 +5,9 @@ Anomaly detection for time-series data is crucial in the management of systems f
 Overview:
 
 Load data, augment data, and construct 4-tuples (datasets.py)
+
 Define networks including feature extractor, triplet network, and classifiers (networks.py)
+
 Train model (main.py)
 
 Environment:
