@@ -9,7 +9,7 @@ Load data, augment data, and construct 4-tuples (datasets.py)
 Define networks including feature extractor, triplet network, and classifiers (networks.py)
 Train model (main.py)
 
-Installation
+Environment：
 
 Requires [mindspore](https://www.mindspore.cn/install) 
 
@@ -25,5 +25,6 @@ To run the code
 python main.py
 ```
 
-Citation
+Citation：
+
 If you use this code in your research, please cite our paper "Few-Shot Time-Series Anomaly Detection with Unsupervised Domain Adaptation".
